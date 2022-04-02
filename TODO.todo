@@ -1,0 +1,9 @@
+Tasks:
+    for now let it be just a normal txt file in the same folder.
+    A good website that teaches about read/write https://golangbot.com/write-files/
+    ☐ Write down hosts to c://windows/system32/drivers/etc/hosts everything that in a file. 
+
+A nice ui with an option to disable and enable file
+when file is enable write it to hosts
+when file is disabled delete the lines of the files
+IMPORTANT: do not delete the entire hosts file.
